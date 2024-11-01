@@ -24,4 +24,9 @@ basic git work flow - work on stuff (make new files, edit files, delete files, e
 
 workflow -> git add -> staging area -> git commit -> Repository
 
-git add - is used to select or include files that we want to commit to a repo
+git add - is used to select or include files that we want to commit to a repo. e.g git add text.txt helpMod.txt. gitDocumentation.txt
+
+git status - 
+
+
+git log 
