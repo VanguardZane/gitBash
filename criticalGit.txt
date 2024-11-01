@@ -1,0 +1,26 @@
+hello world!
+listing critical git bash topics
+what are good repos?
+Git init (initialize)
+Git Status
+Committing workflow 
+Git Add
+Git Commit 
+
+Git status - Gives information on the current status of a git repository and its contents.
+
+git init - Use git init to create a new git repository. Do this once per project intitialize
+           the repo in the top-level folder containing project.
+
+
+git commit - This is the same concept as adding a checkpoint within a project e.g initialize project, 
+             create search bar, add header, add website description, etc.
+
+
+basic git work flow - work on stuff (make new files, edit files, delete files, etc) add changes (group specific 
+		      changes together in preparation of commiting) Commit (commit everything that was previously added)
+
+
+workflow -> git add -> staging area -> git commit -> Repository
+
+git add - is used to select or include files that we want to commit to a repo
